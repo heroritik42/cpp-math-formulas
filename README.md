@@ -360,6 +360,7 @@ long long power(long long a, long long b, long long mod) {
     return res;
 }
 
+
 🚀 How to Use
 
 Copy formulas into your coding notes
@@ -371,4 +372,5 @@ Useful in DSA, Competitive Programming, and Projects
 👨‍💻 Author
 
 Developed by Hero Ritik
+
 📷 Instagram: @hacker_attitude42

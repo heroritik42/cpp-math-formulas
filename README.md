@@ -475,6 +475,7 @@ int main() {
 
 
 // ================== Example Usage ==================
+// ================== Example Usage ==================
 int main() {
     cout << "Sum of first 10 natural numbers = " << MathLib::sumN(10) << endl;
     cout << "Sum of squares (n=5) = " << MathLib::sumSquares(5) << endl;
